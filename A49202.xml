@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's answer to Mons. Tyrconnel's letter</title>
+            <author>Louis XIV, King of France, 1638-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49202</idno>
+            <idno type="STC">Wing L3099</idno>
+            <idno type="STC">ESTC R8999</idno>
+            <idno type="EEBO-CITATION">13534504</idno>
+            <idno type="OCLC">ocm 13534504</idno>
+            <idno type="VID">100033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's answer to Mons. Tyrconnel's letter</title>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>Tyrconnel, Richard Talbot, --  Earl of, 1630-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:100033:1" rendition="simple:additions"/>
+            <head>THE French King's Anſwer TO Monſ, Tyrconnel's Letter.</head>
+            <head type="sub">Licenſed Auguſt 22. 1690.</head>
+            <p>
+               <hi>Right Trusty, Right Obeyſant, and Right Couchant Champion, and Creature.</hi>
+            </p>
+            <p>WHEN your moſt obſequious Letters kiſſed our moſt Po<g ref="char:EOLhyphen"/>tent hands at our High and Mighty <hi>Seraglio</hi> at <hi>Verſailes,</hi> we were graciouſly pleaſed to condeſ<g ref="char:EOLhyphen"/>cend to peruſe them, and to approve the Zeal, and Affection therein ex<g ref="char:EOLhyphen"/>preſſed to Our puiſſant <hi>Perſon,</hi> and moſt Chriſtian <hi>Cauſe:</hi> and We have vouchſafed to ſend you our Mighty Greetings, and moſt <hi>Sultan</hi>-like Thanks for the ſame.</p>
+            <p>We cannot but take it well that with ſuch profound Submiſſion you ac<g ref="char:EOLhyphen"/>knowledge Our Soveraign <hi>Councils,</hi> and <hi>Conduct,</hi> Our <hi>Armes,</hi> and <hi>Alliances;</hi> wherein, as We have ſcorned to take Precedent from any other Monarch; ſo doubtleſs we have exceeded all that Leſs-Cultivated Princes could, or can pretend to.</p>
+            <p>Hath not the Religion of our Wiſe Pagan Anceſtours, Commanded them to Worſhip the Gods themſelves had made? And if they were compelled to Deifie the Graven, or Molten Images the <hi>work</hi> of their <hi>own hands;</hi> Is it not much more rational and according to
+<pb n="2" facs="tcp:100033:2"/>Eccleſiaſtick Rudiment, That <hi>Adora<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Divine Rights</hi> be performed to Us who are a <hi>Living Deity,</hi> yea of their <hi>Own</hi> forming and ſetting up too? Were they not the late Kings of <hi>England</hi> that exalted Us to this Grandure, and doth not the World ſee with what <hi>Veneration,</hi> and <hi>Devo<g ref="char:EOLhyphen"/>tion</hi> the good <hi>King James</hi> always re<g ref="char:EOLhyphen"/>ceived Our Orders, with what <hi>Hu<g ref="char:EOLhyphen"/>mility</hi> he lies at the Feet of Our <hi>Shrine,</hi> and with what <hi>Reverence</hi> he purſues our Abſolute Commands? And is it not due to Us upon Account of the Almightineſs to which We are ex<g ref="char:EOLhyphen"/>alted?</p>
+            <p>Can We not Thunder like <hi>Jupiter,</hi> Fabricate Arms like <hi>Vulcan,</hi> contrive New Forms like <hi>Saturn,</hi> forge Sto<g ref="char:EOLhyphen"/>ries like <hi>Mercury,</hi> be taken in a Net like <hi>Mars,</hi> if not Out-do theſe and the whole <hi>Pantheon</hi> of Old-faſhion'd <hi>Gods?</hi> And ſhall We be denied Our <hi>Prieſts,</hi> and <hi>Altars?</hi>
+            </p>
+            <p>'Tis true, there are not wanting ſome of the <hi>Sacerdotal Function,</hi> that with great Piety have acknowledged Our <hi>Jus Divinum,</hi> and have not been wanting in their Pulpit <hi>Declamations,</hi> and <hi>Writings</hi> too, to convince the <hi>
+                  <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lieving Mob</hi> of that <hi>Antecedent,</hi> and <hi>In<g ref="char:EOLhyphen"/>herent</hi> Right of <hi>Sway,</hi> and <hi>Empire</hi> which Our <hi>Infallibility</hi> juſtly claims, and Our Vaſſals out of their Bounden Duty, ſo inculcated, acknowledged to be <hi>Li<g ref="char:EOLhyphen"/>neally deſcended</hi> with us, and that by <hi>Natural Prerogative.</hi> But after all this, I hope we are not to have Our <hi>Sove<g ref="char:EOLhyphen"/>raign Authority,</hi> and <hi>Jus Imperii</hi> to ſtand, or fall at the Will and Pleaſure of an <hi>Orthodox Caſſock,</hi> or <hi>Hood!</hi> Was it not the Bounty of Our Fathers and Predeceſſors, that endow'd their <hi>Cloy<g ref="char:EOLhyphen"/>ſters,</hi> and <hi>Colledges?</hi> And ſhall theſe <hi>Coxcombs</hi> in <hi>Orders</hi> think to give Law to the <hi>Sultanian,</hi> and Imperial Power? What hath the <hi>Biſhop</hi> of <hi>Rome</hi> to do in Secular Affairs? Muſt the <hi>Ambaſſadors</hi> of Our <hi>Mightineſis</hi> take his Time, and Manner of Entry from the Dire<g ref="char:EOLhyphen"/>ction of an Old Formal <hi>Pontificat?</hi> But now the <hi>Father</hi> thinks he hath ſecured his <hi>Chair</hi> by entring into a <hi>Confederacy</hi> with <hi>Lutherans, Hugenots,</hi> and <hi>Whiggs;</hi> and drawing off a Parcel of ſullen <hi>De<g ref="char:EOLhyphen"/>votes</hi> from their <hi>
+                  <g ref="char:V">Ʋ</g>nquestionable Allegi<g ref="char:EOLhyphen"/>ance</hi> to our <hi>Stupendious</hi> Majeſty; but a<g ref="char:EOLhyphen"/>las! the Old <hi>Prelate</hi> will find himſelf vaſtly out in his Meaſures, when the <hi>Thunder</hi> of the moſt Potent Monarch of <hi>France, England, Holland, Spain,</hi> and <hi>Almain,</hi> ſhall have broken his <hi>Bulls, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nations,</hi> and <hi>Eccleſiastical A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ery</hi> to pieces.</p>
+            <p>Neither are We without the moſt Undeniable Aſſurances imaginable, that may encourage Our Illuſtrious <hi>Confidence,</hi> and buoy up the ſinking Courage of Our <hi>drooping Troops</hi> with Undeniable Proofs of Our Riſing Fortune. And that you may raiſe the Confidence of your For<g ref="char:EOLhyphen"/>ces, by imparting ſo great a Secret to them; the Grounds are theſe; which We have thought meet to acquaint you withall.</p>
+            <p n="1">1. The <hi>de facto</hi> Party, as they are called, have made ſuch a Schiſm in the Minds of the Subject, that, as long as we can keep alive that Scruple, it will encline vaſt Numbers of the ſober; Churchmen to Our Side: For it is moſt certain, if they can be prevail'd with to believe that a <hi>de jure.</hi> Shim is not <hi>there;</hi> It muſt neceſſarily reſide <hi>ſome where elſe;</hi> and their <hi>Allegiance</hi> muſt be due where <hi>that</hi> is to be found, Now We defie the Papers of Our Late Truſty Confident <hi>Nevil Paine</hi> to ſpeak more
+<pb n="3" facs="tcp:100033:2" rendition="simple:additions"/>to the Purpoſes than this amounts to.</p>
+            <p n="2">2. The <hi>Cocks</hi> who were not in Condi<g ref="char:EOLhyphen"/>tion to <hi>fight this</hi> Summer, will doubtleſs have their <hi>Weapons</hi> grown out againſt the <hi>next;</hi> and then We need not doubt Our Right Truſty <hi>Catholick,</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cobite</hi> Friends will <hi>Arm, ſtand <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and give the <hi>Signal:</hi> It is almoſt Unac<g ref="char:EOLhyphen"/>countable to Imagine what became of their <hi>Courage</hi> when Animated by Our <hi>Ships</hi> of <hi>War,</hi> and <hi>Gallies</hi> on their Coaſt; but ſome think ſending the <hi>lat<g ref="char:EOLhyphen"/>ter</hi> ſo <hi>near</hi> diſpirited them, they be<g ref="char:EOLhyphen"/>ing a <hi>People</hi> that have a Natural <hi>A<g ref="char:EOLhyphen"/>verſion</hi> to the <hi>Oar,</hi> and <hi>Chain.</hi>
+            </p>
+            <p n="3">3. Thoſe, who by too early open<g ref="char:EOLhyphen"/>ing the <hi>Deſign,</hi> have fallen under the <hi>Frowns</hi> of the <hi>Government,</hi> will, by that time, have drawn Breath, and be in Condition to <hi>Rally,</hi> and <hi>purſue</hi> their Purpoſes, unleſs they ſhall ſerve Us, as they did their <hi>Abdicating Ma<g ref="char:EOLhyphen"/>ster,</hi> that is to ſay, <hi>fly</hi> without a <hi>pur<g ref="char:EOLhyphen"/>ſuer, Secundum <g ref="char:V">Ʋ</g>ſum Sarum.</hi> 'Tis ve<g ref="char:EOLhyphen"/>ry true, We have no great reaſon too much to confide in their Bravery, ſince, if they <hi>deſerted</hi> when they had the <hi>Sword</hi> in their hand, there is but ſmall hope they ſhould have the <hi>Cou<g ref="char:EOLhyphen"/>rage</hi> to attempt, when the <hi>Army,</hi> and <hi>Government</hi> are againſt them. But though much Confidence ought not to be laid on their <hi>Valour,</hi> We may a little rely on <hi>Verbum Sacerdotis.</hi>
+            </p>
+            <p n="4">4. Our Royal <hi>Armada</hi> will, by that Time, be <hi>Refitted,</hi> and in Con<g ref="char:EOLhyphen"/>dition to put to Sea again, if We can but have ſuch good Fortune as the <hi>laſt Bout;</hi> only I cannot forbear to tell you as Our Right Truſty Coun<g ref="char:EOLhyphen"/>cellour, that We eſcaped not altoge<g ref="char:EOLhyphen"/>ther ſo well as Our <hi>Arches</hi> and <hi>Pil<g ref="char:EOLhyphen"/>lars</hi> boaſt, but, like <hi>Achilles</hi> We were <hi>galled</hi> in the <hi>heel:</hi> And though Our Gazettes made no mention thereof, yet the <hi>Docks</hi> belonging to Our <hi>Arſe<g ref="char:EOLhyphen"/>nal</hi> will ſhew it, as well as the A<g ref="char:EOLhyphen"/>batement of Our <hi>Number.</hi>
+            </p>
+            <p n="5">5. For a <hi>Supply</hi> of the True <hi>Sinews</hi> of <hi>War,</hi> though Our Enemies <hi>ſtru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Erect</hi> themſelves upon the Melting down of Our <hi>Houſhold,</hi> and <hi>Altar</hi>-Plate, yet hath Our <hi>Egregious Care</hi> of your Concerns took up ſo much of Our Thoughts, that We have per<g ref="char:EOLhyphen"/>mitted you to make a <hi>Coin</hi> of <hi>Horn,</hi> and <hi>Leather,</hi> as hath been the Uſage in Times paſt: Neither would We have the Ignorant World imagine, that it is the <hi>Intrinſick Value</hi> of the <hi>Metal,</hi> that gives <hi>Reputation</hi> to Our <hi>Bullion,</hi> but it is the ſetting the <hi>Image,</hi> and <hi>Superſcription</hi> of Our <hi>High</hi> and <hi>Mightineſs</hi> thereon, that puts a real <hi>Eſtimate</hi> upon it; So that as We were graciouſly pleaſed to in<g ref="char:EOLhyphen"/>dulge your late Maſter to <hi>Coin</hi> up <hi>Kettles,</hi> and <hi>Shellets</hi> to half <hi>Crowns,</hi> and Shillings: We have given you full Power to make any thing paſs that comes next to hand, ſetting, as was ſaid, Our Victorious Figure there<g ref="char:EOLhyphen"/>on.</p>
+            <p>We heartily commend your <hi>Own,</hi> and Monſieur <hi>Lazun</hi>'s <hi>Conduct</hi> in mak<g ref="char:EOLhyphen"/>ing good <hi>Limerick,</hi> and <hi>Galloway,</hi> for Places of retreat, and, if it be poſ<g ref="char:EOLhyphen"/>ſible for the Soul of a <hi>Monarch</hi> fluſht with ſuch Continual Succeſſes to be Capable of the mean Impreſſions of Sorrow; it is' only for this, That Our <hi>great Ships</hi> ſo inconſiderately burnt the <hi>Fiſher Boats</hi> at <hi>Tingmouth,</hi> which elſe might have ſerved to <hi>Tranſvert</hi> you, and your <hi>Remaining Troops</hi> home to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, when Occaſion ſhall Offer.</p>
+            <pb n="4" facs="tcp:100033:3" rendition="simple:additions"/>
+            <p>What remains is this, That if that Active Prince <hi>King William</hi> can by no means be prevail'd with to <hi>re<g ref="char:EOLhyphen"/>mit</hi> of his <hi>Rigour,</hi> and put on a Temper of <hi>Calmneſs,</hi> and <hi>Remiſſion;</hi> if nothing will work him to <hi>Com<g ref="char:EOLhyphen"/>paſſion;</hi> then that you make all poſ<g ref="char:EOLhyphen"/>ſible haſte you can to Us with the Remainder of your <hi>Forces,</hi> which no doubt <hi>we</hi> may have need enough of the next Summer; for if he bring his <hi>Travelling Tent</hi> hither, My <hi>Victorious Self,</hi> and your <hi>Great Maſter,</hi> are re<g ref="char:EOLhyphen"/>ſolved to betake our ſelves to the <hi>Sanctuary</hi> of ſome <hi>Holy Roof,</hi> and there to end our Days in that <hi>
+                  <g ref="char:V">Ʋ</g>ndisturbed Peace,</hi> which we have always endea<g ref="char:EOLhyphen"/>voured to preſerve in <hi>Europe:</hi> So We bid you heartily Farewel.</p>
+            <closer>
+               <dateline>Given at Our Caſtle at <hi>Verſailes,</hi> 
+                  <date>in the laſt Year of Our Puiſſance,</date>
+               </dateline>
+               <signed>LOWIS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Baldwin,</hi> in the <hi>Old-Baily,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
